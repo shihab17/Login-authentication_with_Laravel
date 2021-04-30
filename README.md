@@ -2,7 +2,7 @@
 
 ### Technologies:
 - PHP
-- Laravel8
+- Laravel 8
 - HTML
 - CSS
 - MySQL
